@@ -12,14 +12,14 @@
 </STEP-ProductInformation>
 
 Export from Chih_mobiles
-Effective date: 2024-02-08 18:15:07
+Effective date: 2024-02-08 18:16:07
 Classifications All
 Products "Chih_mobiles"
 Assets All
 
 Exported by domain exporter.
 -->
-<STEP-ProductInformation ExportTime="2024-02-08 18:15:07" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
+<STEP-ProductInformation ExportTime="2024-02-08 18:16:07" ExportContext="Context1" ContextID="Context1" WorkspaceID="Approved" UseContextLocale="false">
 
   <Products>
     <Product ID="Chih_mobiles" UserTypeID="Chih_child2" ParentID="Chih_gadgets">
